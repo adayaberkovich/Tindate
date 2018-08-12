@@ -2154,7 +2154,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"sounds/HaddawayWhatIsLoveOfficialmp3cutnet1.mp3?1533856860630", id:"HaddawayWhatIsLoveOfficialmp3cutnet1"}
+		{src:"Sounds/HaddawayWhatIsLoveOfficialmp3cutnet1.mp3?1533856860630", id:"HaddawayWhatIsLoveOfficialmp3cutnet1"}
 	],
 	preloads: []
 };
